@@ -1,0 +1,2 @@
+# Simple wsgi openshift application
+
